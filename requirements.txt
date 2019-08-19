@@ -1,0 +1,5 @@
+numpy==1.16.4
+tqdm==4.32.2
+opencv_python==4.1.0.25
+av==6.2.0
+pyscreenshot==0.5.1
